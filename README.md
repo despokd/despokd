@@ -21,5 +21,5 @@
 
 <p align="center">
 <a href="https://codepen.io/despokd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="despokd" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/despokd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="despokd" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10036524" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10036524" height="30" width="30" /></a>
 </p>
