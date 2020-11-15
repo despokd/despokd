@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Dashboard](https://github.com/despokd/dashboard_kd)
 
-- 🌱 I’m currently learning **WordPress Plugin Development**
+- 🌱 I’m currently learning **Vue 3**
 
 - 👨‍💻 All of my projects are available at [https://tequilian.de/projekte](https://tequilian.de/projekte)
 
