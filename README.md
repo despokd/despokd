@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Elementor**
 
-- 📫 How to reach me **info@tequilian.de**
+- 📫 How to reach me **github@tequilian.de**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
