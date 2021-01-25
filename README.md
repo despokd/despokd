@@ -4,7 +4,7 @@ I work at a small company in Dresden, Germany and create websites and web module
 
 Skills: VUE JS / JS / HTML / CSS / PHP
 
-- 🔭 I’m currently working on web-contac-reader (Repo) 
+- 🔭 I’m currently working on web-contact-reader (Repo) 
 - 🌱 I’m currently learning Vue PWAs 
 - 💬 Ask me about Elementor (WordPress) 
 - 📫 How to reach me: github@tequilian.de 
