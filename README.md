@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kilian
 #### I'm a full stack web developer
-I work at a small company in Dresden, Germany and create websites and web modules. In my free time I create small web applications and websites for personal use
+I have recently completed my training as an IT specialist and created websites and web modules in a small company in Dresden, Germany. In my free time I create small web applications and websites for personal use
 
 Skills: VUE JS / JS / HTML / CSS / PHP
 
