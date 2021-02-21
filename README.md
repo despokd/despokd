@@ -7,7 +7,7 @@ I have recently completed my training as an IT specialist and created websites a
 - 🔭 I’m currently working on [Contact Reader](https://github.com/despokd/web-contact-reader)  
   
 
-- 🌱 I’m currently learning  Vue PWAs  
+- 🌱 I’m currently learning  Svelte.js and Docker 
   
 
 - ❓ Ask me about anything related to Elementor (WordPress)  
@@ -60,7 +60,7 @@ I have recently completed my training as an IT specialist and created websites a
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/despokd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
