@@ -4,7 +4,7 @@
 I have recently completed my training as an IT specialist and created websites and web modules in a small company in Dresden, Germany. In my free time I create small web applications and websites for personal use  
   
 
-- 🔭 I’m currently working on [Contact Reader](https://github.com/despokd/web-contact-reader)  
+- 🔭 I’m currently working on my [Portfolio](https://github.com/despokd/portfolio)  
   
 
 - 🌱 I’m currently learning  Svelte.js and Docker 
