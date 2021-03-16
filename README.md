@@ -87,11 +87,11 @@ I have recently completed my training as an IT specialist and created websites a
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio / kdomaratius.de](https://tequilian.de/uncategorized/portfolio-kdomaratius-de/)
 - [Contact reader](https://tequilian.de/projekte/web-contact-reader/)
 - [Fix: SVG not shown in Firefox (Elementor)](https://tequilian.de/snippets/fix-svg-not-shown-in-firefox-elementor/)
 - [Add dark mode based on system preferences in Vuetify](https://tequilian.de/snippets/add-dark-mode-based-on-system-preferences-in-vuetify/)
 - [PrestaShop: More characters for article names](https://tequilian.de/snippets/prestashop-more-characters-for-article-name/)
-- [Workaround: PrestaShop error on installation ‘An error has occurrederror’](https://tequilian.de/snippets/workaround-prestashop-error-on-installation-an-error-has-occurrederror/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
