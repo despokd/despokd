@@ -17,6 +17,8 @@
 ### Github stats
 ![despokd's github stats](https://github-readme-stats.vercel.app/api?username=despokd&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=despokd&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=despokd&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 
