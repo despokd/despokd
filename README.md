@@ -19,12 +19,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=despokd&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=despokd&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.79 % as on ⏰ 17-3-2021.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.80 % as on ⏰ 17-3-2021.
 
 ---
 
