@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# <p align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 <p align="center">CV & Skills on <a href="https://kdomaratius.de">kdomaratius.de</a></p>
 <p align="center">Personal interests, code snippets and more on <a href="https://tequilian.de">tequilian.de</a></p>
 
