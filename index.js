@@ -37,6 +37,7 @@ const readme = `\
 - ❓ Ask me about anything related to Elementor (WordPress)  
 - 😄 Pronouns: he / his  
 
+---
 
 ### Github stats
 ![despokd's github stats](https://github-readme-stats.vercel.app/api?username=despokd&show_icons=true&theme=algolia)
@@ -56,6 +57,8 @@ const readme = `\
   new Date().getFullYear() +
   "."
 }
+
+---
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
