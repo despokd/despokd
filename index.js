@@ -32,7 +32,7 @@ const readme = `\
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/despokd/portfolio)  
-- 📝 I post code snippets on [tequilian.de](https://apoorvtyagi.tech/)
+- 📝 I post code snippets on [tequilian.de](https://tequilian.de/snippets/)
 - 🌱 I’m currently learning  Svelte.js and Docker 
 - ❓ Ask me about anything related to Elementor (WordPress)  
 - 😄 Pronouns: he / his  
@@ -42,7 +42,7 @@ const readme = `\
 ### Github stats
 ![despokd's github stats](https://github-readme-stats.vercel.app/api?username=despokd&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=despokd&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=despokd&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![despokd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=despokd&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
