@@ -1,4 +1,4 @@
-name: Progress Bar CI
+name: get content
 
 on:
   workflow_dispatch:
