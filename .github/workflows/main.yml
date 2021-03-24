@@ -3,7 +3,7 @@ name: get content
 on:
   workflow_dispatch:
   schedule:
-    - cron: '59 23 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
