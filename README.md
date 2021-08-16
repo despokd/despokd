@@ -3,13 +3,12 @@
 <p align="center">Personal interests, code snippets and more on <a href="https://tequilian.de">tequilian.de</a></p>
 
 ### About Me
-- 🏦 I have recently completed my training as an IT specialist and created websites and web modules in a small company in Dresden, Germany.
+- 🏦 I have recently completed my training as an IT specialist, created websites and web modules in a small company in Dresden, Germany. Now i start my career as a trainee in web development at [WEBneo GmbH](https://webneo.de)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/despokd/portfolio)  
+- 🔭 I’m currently working on my [Website skins Extension](https://github.com/despokd/website-skins)  
 - 📝 I post code snippets on [tequilian.de](https://tequilian.de/snippets/)
-- 🌱 I’m currently learning  Svelte.js and Docker 
-- ❓ Ask me about anything related to Elementor (WordPress)  
+- 🌱 I’m currently learning  Shopware 6 and Docker 
 - 😄 Pronouns: he / his  
 
 ---
