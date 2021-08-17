@@ -3,12 +3,13 @@
 <p align="center">Personal interests, code snippets and more on <a href="https://tequilian.de">tequilian.de</a></p>
 
 ### About Me
-- 🏦 I have recently completed my training as an IT specialist, created websites and web modules in a small company in Dresden, Germany. Now i start my career as a trainee in web development at [WEBneo GmbH](https://webneo.de)
+- 🏦 I have recently completed my training as an IT specialist and created websites and web modules in a small company in Dresden, Germany.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working on my [Website skins Extension](https://github.com/despokd/website-skins)  
+- 🔭 I’m currently working on my [Portfolio](https://github.com/despokd/portfolio)  
 - 📝 I post code snippets on [tequilian.de](https://tequilian.de/snippets/)
-- 🌱 I’m currently learning  Shopware 6 and Docker 
+- 🌱 I’m currently learning  Svelte.js and Docker 
+- ❓ Ask me about anything related to Elementor (WordPress)  
 - 😄 Pronouns: he / his  
 
 ---
@@ -19,7 +20,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.20 % as on ⏰ 16-8-2021.
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.48 % as on ⏰ 17-8-2021.
 
 ---
 
