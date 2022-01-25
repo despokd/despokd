@@ -19,7 +19,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 6.32 % as on ⏰ 24-1-2022.
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 6.59 % as on ⏰ 25-1-2022.
 
 ---
 
@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Portfolio / kdomaratius.de](https://tequilian.de/projekte/portfolio-kdomaratius-de/)
 - [Contact reader](https://tequilian.de/projekte/web-contact-reader/)
-- [Fix: SVG not shown in Firefox &lpar;Elementor&rpar;](https://tequilian.de/snippets/fix-svg-not-shown-in-firefox-elementor/)
+- [Fix: SVG not shown in Firefox (Elementor)](https://tequilian.de/snippets/fix-svg-not-shown-in-firefox-elementor/)
 - [Add dark mode based on system preferences in Vuetify](https://tequilian.de/snippets/add-dark-mode-based-on-system-preferences-in-vuetify/)
 - [PrestaShop: More characters for article names](https://tequilian.de/snippets/prestashop-more-characters-for-article-name/)
 <!-- BLOG-POST-LIST:END -->  
