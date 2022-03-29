@@ -33,8 +33,8 @@ const readme = `\
 - 🏦 I completed my training as an IT specialist and create e-commerce / cms websites in Germany.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working on my donations website [xmas-magic](https://github.com/despokd/xmas-magic)  
-- 🌱 I’m currently learning  Docker + Symfony
+- 🔭 I’m currently working on my private website [tequilian.de](https://github.com/despokd/tequilian)  
+- 🌱 I’m currently learning Docker + Symfony
 - ❓ Ask me about anything related to Shopware 6 Frontend
 - 😄 Pronouns: he / his  
 
