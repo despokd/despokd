@@ -3,13 +3,16 @@
 <p align="center">Personal interests, code snippets and more on <a href="https://tequilian.de">tequilian.de</a></p>
 <p align="center">Work related stuff on <a href="https://gitlab.com/kdomaratius">Gitlab @kdomaratius</a></p>
 
+
 ### About Me
 - 🏦 I completed my training as an IT specialist and create e-commerce / cms websites in Germany.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - 🔭 I’m currently working on my private website [tequilian.de](https://github.com/despokd/tequilian)  
 - 🌱 I’m currently learning Docker + Symfony
 - ❓ Ask me about anything related to Shopware 6 Frontend
 - 😄 Pronouns: he / his  
+
 ---
 
 ### Coding stats
@@ -18,17 +21,6 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.86 % as on ⏰ 29-3-2022.
-
----
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Portfolio / kdomaratius.de](https://tequilian.de/projekte/portfolio-kdomaratius-de/)
-- [Contact reader](https://tequilian.de/projekte/web-contact-reader/)
-- [Fix: SVG not shown in Firefox (Elementor)](https://tequilian.de/snippets/fix-svg-not-shown-in-firefox-elementor/)
-- [Add dark mode based on system preferences in Vuetify](https://tequilian.de/snippets/add-dark-mode-based-on-system-preferences-in-vuetify/)
-- [PrestaShop: More characters for article names](https://tequilian.de/snippets/prestashop-more-characters-for-article-name/)
-<!-- BLOG-POST-LIST:END -->  
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.13 % as on ⏰ 30-3-2022.
 
 
